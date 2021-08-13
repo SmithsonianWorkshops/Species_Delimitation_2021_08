@@ -12,6 +12,7 @@
 # Installing
 * Download: We want the Linux, 64-bit, Python3 installer found on this page: https://docs.conda.io/en/latest/miniconda.html (Note: We recommend getting the Python3 installer even if you need Python2 for some programs. You can setup a separate Python2 environment)
 * `$ wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh`
+* If you don't have wget on your computer, you can download by clicking on the link to the version for your operating system instead.
 * Run installer. Make sure to enter "yes" to "running conda init":
 
 ```
