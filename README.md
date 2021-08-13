@@ -5,4 +5,6 @@ BPP installation instructions here: https://github.com/bpp/bpp (no compilation n
 
 Haploweb is available here: https://eeg-ebe.github.io/HaplowebMaker/ (web interface, no installation necessary)
 
-PHRAPL installation guide here: https://phrapl.github.io/Content/1.Installation.html (we recommend using conda, those instructions are here: https://github.com/SmithsonianWorkshops/Species_Delimitation_2021_08/blob/main/PHRAPL_conda_install.md
+PHRAPL installation guide here: https://phrapl.github.io/Content/1.Installation.html (we recommend using conda to manage dependencies, those instructions are here: https://github.com/SmithsonianWorkshops/Species_Delimitation_2021_08/blob/main/PHRAPL_conda_install.md)
+
+delimitR installation guide here: https://github.com/meganlsmith/delimitR (we recommend using conda to manage dependencies, those instructions are here: https://github.com/SmithsonianWorkshops/Species_Delimitation_2021_08/blob/main/delimitR_conda_install.md)
