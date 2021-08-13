@@ -1,6 +1,8 @@
 # Species_Delimitation_2021_08
 Materials for the virtual Species Delimitation workshop, held August 16-20, 2021
 
+#### A note that while we recommend using conda to install software in order to minimize dependency conflicts, it is not necessary, and participants should do whatever works best for them and their systems!
+
 * iBPP installation instructions here: https://github.com/cecileane/iBPP/wiki/Installation-of-iBPP (compilation necessary with gcc v. 5.x)
 
 * delimitR installation guide here: https://github.com/meganlsmith/delimitR (we recommend using conda to manage dependencies, those instructions are here: https://github.com/SmithsonianWorkshops/Species_Delimitation_2021_08/blob/main/delimitR_conda_install.md)
