@@ -7,6 +7,8 @@ Materials for the virtual Species Delimitation workshop, held August 16-20, 2021
 
 * Haploweb is available here: https://eeg-ebe.github.io/HaplowebMaker/ (web interface, no installation necessary)
 
+* Machine Learning tutorial install instructions are available here: https://github.com/SmithsonianWorkshops/Species_Delimitation_2021_08/blob/main/ML_tutorial_conda_install.md)
+
 * mPTP installation guide here: https://github.com/Pas-Kapli/mptp ((we recommend using conda to manage dependencies, those instructions are here: https://github.com/SmithsonianWorkshops/Species_Delimitation_2021_08/blob/main/mPTP_conda_install.md)
 
 * PHRAPL installation guide here: https://phrapl.github.io/Content/1.Installation.html (we recommend using conda to manage dependencies, those instructions are here: https://github.com/SmithsonianWorkshops/Species_Delimitation_2021_08/blob/main/PHRAPL_conda_install.md)
