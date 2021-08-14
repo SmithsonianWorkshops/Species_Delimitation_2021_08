@@ -18,6 +18,20 @@ conda install -c conda-forge r-stringi
 conda install -c conda-forge r-stringr
 conda install -c conda-forge r-knitr
 conda install -c conda-forge r-rsqlite
+conda install -c r r-dplyr
+conda install -c conda-forge r-readr
+conda install -c bioconda r-rematch2
+conda install -c r r-rmarkdown
+conda install -c conda-forge r-sqldf
+conda install -c r r-testthat
+conda install -c conda-forge r-tibble
+conda install -c conda-forge r-vroom
+conda install -c conda-forge r-waldo
+conda install -c conda-forge r-ranger
+conda install -c r r-foreach
+conda install -c r r-doparallel
+conda install -c conda-forge r-matrixstats
+
 ```
 * Then download the delimitR code:
 `git clone https://github.com/meganlsmith/delimitR.git`
@@ -25,6 +39,7 @@ conda install -c conda-forge r-rsqlite
 * Set your working directory to the directory above the delimitR directory that was created when you unpacked the source code.
 * Try typing `which R` to make sure it's the version you just installed with conda.
 * Start R by typing `R`
+* Install one more dependency not available via conda: `install.packages("abcrf")`
 * And then install delimitR from within R:
 ```
 devtools::install('delimitR', dependencies = TRUE)
