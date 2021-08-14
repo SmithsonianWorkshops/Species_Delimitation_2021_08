@@ -4,8 +4,7 @@
 ### Installing fastsimcoal2
 * Download the version for your operating system e.g.
  `wget http://cmpg.unibe.ch/software/fastsimcoal26/downloads/fsc26_linux64.zip`
-```
-```
+
 * Unzip and then make executable with `chmod +x fsc26`
   
 * See our conda_instructions.md (https://github.com/SmithsonianWorkshops/Species_Delimitation_2021_08/blob/main/conda_instructions.md) and create an environment just for delimitR.
@@ -15,6 +14,7 @@
 conda install -c r r 
 conda install python=2.7
 conda install -c conda-forge r-devtools
+conda install -c conda-forge r-stringi
 ```
 * Then download the delimitR code:
 `git clone https://github.com/meganlsmith/delimitR.git`
