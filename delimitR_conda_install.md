@@ -15,6 +15,8 @@ conda install -c r r
 conda install python=2.7
 conda install -c conda-forge r-devtools
 conda install -c conda-forge r-stringi
+conda install -c conda-forge r-stringr
+conda install -c conda-forge r-knitr
 ```
 * Then download the delimitR code:
 `git clone https://github.com/meganlsmith/delimitR.git`
