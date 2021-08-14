@@ -196,7 +196,7 @@ The following packages will be REMOVED:
 ...
 Proceed ([y]/n)? y
 ```
-### Useful environments: python2 and R
+### Useful environments: Python2 and R
 * If you need to a use a program written in python2, you can create an environment with that version of Python
 `(base)$ conda create -n python2 python=2`
 `(base)$ conda activate python2`
