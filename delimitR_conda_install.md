@@ -18,6 +18,7 @@ conda install -c conda-forge r-devtools
 ```
 * Then download the delimitR code:
 `git clone https://github.com/meganlsmith/delimitR.git`
+* Unpack the tar.gz file
 * Set your working directory to the directory above the delimitR directory that was created when you unpacked the source code.
 * Try typing `which R` to make sure it's the version you just installed with conda.
 * Start R by typing `R`
