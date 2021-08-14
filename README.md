@@ -1,4 +1,4 @@
-# Species_Delimitation_2021_08
+# Species Delimitation 2021
 Materials for the virtual Species Delimitation workshop, held August 16-20, 2021
 
 #### A note that while we recommend using conda to install software in order to minimize dependency conflicts, it is not necessary, and participants should do whatever works best for them and their systems!
