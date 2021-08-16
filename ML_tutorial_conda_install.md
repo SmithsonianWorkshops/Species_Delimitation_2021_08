@@ -16,9 +16,8 @@ conda install -c bioconda r-classdiscovery
 conda install -c r rstudio 
 rstudio &
 ```
-* Try typing `which R` to make sure it's the version you just installed with conda.
-* Start R by typing `R`
-* And then install delimitR from within R:
+* If still in the terminal, try typing `which R` to make sure it's the version you just installed with conda and start R by typing `R`
+* Whether in R Studio or on the terminal, install delimitR from within R:
 ```
 install.packages("PCDimension")
 ```
