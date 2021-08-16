@@ -21,8 +21,18 @@ conda install -c r r-rgl
 conda install -c r r-rcolorbrewer
 conda install -c conda-forge r-binom
 conda install -c conda-forge r-diagram
+conda install -c r r-rjsonio
+conda install python=2.7
 ```
+* Download these libraries separately and unzip:
+wget https://github.com/ariadnamorales/phrapl-manual/blob/master/dependencies/rPython_0.0-6.tar.gz
+wget https://github.com/ariadnamorales/phrapl-manual/blob/master/dependencies/P2C2M_0.7.6.tar.gz
+
 * Try typing `which R` to make sure it's the version you just installed with conda.
 * Start R by typing `R`
+* Install rPython:
+`install.packages("rPython", repos=NULL)
+* Install P2C2M:
+`install.packages("P2C2M", repos=NULL)
 * And then install PHRAPL from within R:
 `devtools::install_github("bomeara/phrapl")`
