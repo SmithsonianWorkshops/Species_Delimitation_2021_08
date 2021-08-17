@@ -21,6 +21,8 @@ conda install -c r r-rcolorbrewer
 conda install -c conda-forge r-binom
 conda install -c conda-forge r-diagram
 conda install -c r r-rjsonio
+conda install -c conda-forge r-stringr
+conda install -c conda-forge r-ggplot2
 conda install python=2.7
 ```
 * Download these libraries separately and unzip:
