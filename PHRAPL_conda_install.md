@@ -17,7 +17,6 @@ conda install -c r r-igraph
 conda install -c conda-forge r-numderiv
 conda install -c conda-forge r-nloptr
 conda install -c conda-forge r-matrix
-conda install -c r r-rgl
 conda install -c r r-rcolorbrewer
 conda install -c conda-forge r-binom
 conda install -c conda-forge r-diagram
