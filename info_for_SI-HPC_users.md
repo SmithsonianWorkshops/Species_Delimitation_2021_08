@@ -8,7 +8,7 @@
 * For the Machine Learning tutorial:
 `module load bioinformatics/ml_derkarabetian`
 * For the iBPP tutorial:
-`module load bioinformatics/ibpp`
+`module load bioinformatics/ibpp`, `module load bioinformatics/bpp`
 * For the SNAPPER tutorial:
 `module load bioinformatics/beast`
 * For the mPTP tutorial:
