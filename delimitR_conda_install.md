@@ -12,7 +12,7 @@
 * This will avoid any dependency conflict with any other R installations you have.
 * Next, install the necessary dependencies via conda:
 ```
-conda install -c r r 
+conda install -c conda-forge r-base
 conda install python=2.7
 conda install -c conda-forge r-devtools
 conda install -c conda-forge r-stringi
@@ -22,15 +22,12 @@ conda install -c conda-forge r-rsqlite
 conda install -c r r-dplyr
 conda install -c conda-forge r-readr
 conda install -c bioconda r-rematch2
-conda install -c r r-rmarkdown
 conda install -c conda-forge r-sqldf
 conda install -c r r-testthat
 conda install -c conda-forge r-tibble
 conda install -c conda-forge r-vroom
 conda install -c conda-forge r-waldo
 conda install -c conda-forge r-ranger
-conda install -c r r-foreach
-conda install -c r r-doparallel
 conda install -c conda-forge r-matrixstats
 
 ```
