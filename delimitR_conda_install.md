@@ -9,8 +9,9 @@
   
 * See our conda_instructions.md (https://github.com/SmithsonianWorkshops/Species_Delimitation_2021_08/blob/main/conda_instructions.md) and create an environment just for delimitR.
 * If you are working on a linux system, there is a conda environment yml file here: https://github.com/SmithsonianWorkshops/Species_Delimitation_2021_08/blob/main/conda_environment_yml_files/delimitR_linux.yml (you can use this file to build a new environment with all dependencies with `conda env create --file delimitR_linux.yml`)
-* This will avoid any dependency conflict with any other R installations you have.
-* Next, install the necessary dependencies via conda:
+* If you are working on a mac, there is a conda environment yml file here: https://github.com/SmithsonianWorkshops/Species_Delimitation_2021_08/blob/main/conda_environment_yml_files/delimitR_macos.yml (you can use this file to build a new environment with all dependencies with `conda env create --file delimitR_macos.yml`)
+
+* If you are not using a yml file, once you create a new environment, you will have to install the packages below via conda:
 ```
 conda install -c conda-forge r-base
 conda install python=2.7
