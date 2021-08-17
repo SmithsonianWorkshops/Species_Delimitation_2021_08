@@ -32,8 +32,8 @@ wget https://github.com/ariadnamorales/phrapl-manual/blob/master/dependencies/P2
 * Try typing `which R` to make sure it's the version you just installed with conda.
 * Start R by typing `R`
 * Install rPython:
-`install.packages("rPython", repos=NULL)
+`install.packages("rPython", repos=NULL)`
 * Install P2C2M:
-`install.packages("P2C2M", repos=NULL)
+`install.packages("P2C2M", repos=NULL)`
 * And then install PHRAPL from within R:
 `devtools::install_github("bomeara/phrapl")`
