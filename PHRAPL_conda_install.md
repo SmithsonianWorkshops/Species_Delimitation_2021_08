@@ -1,4 +1,8 @@
 ## Installing PHRAPL via conda
+* Here are the official instructions: https://phrapl.github.io/Content/1.Installation.html#for-macos
+* Note that the above instructinos require root privileges. 
+* Below, we have tried to build an environment for which you do not have to use sudo, but have run into some errors with rPython.
+
 * First, see our conda_instructions.md (https://github.com/SmithsonianWorkshops/Species_Delimitation_2021_08/blob/main/conda_instructions.md) and create an environment just for PHRAPL. 
 * This will avoid any dependency conflict with any other R installations you have.
 * Next, install the necessary dependencies via conda:
