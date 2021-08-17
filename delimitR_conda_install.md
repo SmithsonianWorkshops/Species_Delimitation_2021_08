@@ -8,7 +8,7 @@
 * Unzip and then make executable with `chmod +x fsc26`
   
 * See our conda_instructions.md (https://github.com/SmithsonianWorkshops/Species_Delimitation_2021_08/blob/main/conda_instructions.md) and create an environment just for delimitR.
-* If you are working on a linux system, there is a conda environment yml file here: https://github.com/SmithsonianWorkshops/Species_Delimitation_2021_08/blob/main/conda_environment_yml_files/delimitR_linux.yml (you can use this file to build a new environment with all dependencies with `conda env create --file delimitR_linux.yml`
+* If you are working on a linux system, there is a conda environment yml file here: https://github.com/SmithsonianWorkshops/Species_Delimitation_2021_08/blob/main/conda_environment_yml_files/delimitR_linux.yml (you can use this file to build a new environment with all dependencies with `conda env create --file delimitR_linux.yml`)
 * This will avoid any dependency conflict with any other R installations you have.
 * Next, install the necessary dependencies via conda:
 ```
