@@ -14,7 +14,7 @@ conda install -c salilab gsl
 ```
 git clone https://github.com/Pas-Kapli/mptp.git
 ```
-* Make sure you have a recent gcc version installed. This can also be done via conda (e.g. `conda install -c conda-forge gcc`).
+* Make sure you have a recent gcc version (i.e. v4.x will likely not work) installed. This can also be done via conda (e.g. `conda install -c conda-forge gcc`).
 * `cd` into the mPTP code directory
 * run `./configure --prefix=/YOUR/PREFERRED/INSTALL/LOCATION`
 * run `make`
