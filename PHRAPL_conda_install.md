@@ -27,6 +27,7 @@ conda install python=2.7
 * Download these libraries separately and unzip:
 wget https://github.com/ariadnamorales/phrapl-manual/blob/master/dependencies/rPython_0.0-6.tar.gz
 wget https://github.com/ariadnamorales/phrapl-manual/blob/master/dependencies/P2C2M_0.7.6.tar.gz
+* If `wget` doesn't work on your system, download them directly from the GitHub site by clicking.
 
 * Try typing `which R` to make sure it's the version you just installed with conda.
 * Start R by typing `R`
