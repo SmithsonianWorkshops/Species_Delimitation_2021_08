@@ -15,5 +15,7 @@
 `module load bioinformatics/mptp`
 * For the delimitR tutorial:
 `module load bioinformatics/delimitr`
+* For the PHRAPL tutorial:
+`module load bioinformatics/phrapl`
 
 ### Please contact si-hpc@si.edu with any issues or concerns!
